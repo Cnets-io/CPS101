@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://cps101.netlify.app/ # Add your website address here
+branding:
+  title: CPS 101 
+  label:  # None
+links:
+- text: Course Main
+  link: https://cps101.netlify.app/
+- text: Blackboard
+  link: https://blackboard.cmich.edu
+footer:
+  copyright: "Content: Patrick Seeling, 2020-2021."
